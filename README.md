@@ -1,7 +1,5 @@
 👋
 
-### 🤘
-
 <div>
   <a href="https://github.com/joosshuaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joosshuaa&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
